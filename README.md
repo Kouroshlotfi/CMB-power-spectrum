@@ -20,4 +20,4 @@ A useful summary of the effect of each parameter on the TT spectrum is:
 - **$A_s$**: sets the overall normalization of the primordial scalar fluctuations.
 - **$n_s$**: controls the tilt of the primordial spectrum and hence the broad scale dependence of $C_\ell^{TT}$.
 
-Within the minimal $\Lambda$CDM framework, these six parameters are sufficient to predict the primary CMB temperature anisotropy spectrum to high precision. Their values are inferred by comparing the theoretical spectrum in Eq. (1) with the observed bandpowers from CMB experiments such as *Planck* and ACT.
+Within the minimal $\Lambda$-CDM framework, these six parameters are sufficient to predict the primary CMB temperature anisotropy spectrum to high precision. Their values are inferred by comparing the theoretical spectrum in Eq. (1) with the observed bandpowers from CMB experiments such as *Planck* and ACT.
