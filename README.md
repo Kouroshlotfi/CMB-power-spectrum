@@ -2,10 +2,10 @@
 
 The CMB temperature angular power spectrum may be written as:
 
-$$
+$
 C_\ell^{TT} = 4\pi \int d\ln k \, \Delta_\zeta^2(k) \left| \frac{\Theta_\ell(k,\eta_0)}{\zeta(k)} \right|^2,
 \label{eq:ClTT_LCDM6}
-$$
+$
 
 where $\Theta_\ell(k,\eta_0)$ is the photon transfer function obtained by solving the Einstein–Boltzmann system. This expression makes the role of the six $\Lambda$CDM parameters particularly clear.
 
