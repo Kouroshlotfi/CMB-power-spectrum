@@ -7,7 +7,7 @@ C_\ell^{TT} = 4\pi \int \ \Delta_\zeta^2(k) \left| \frac{\Theta_\ell(k,\eta_0)}{
 $$
 
 
-where $\Theta_\ell(k,\eta_0)$ is the photon transfer function obtained by solving the Einstein--Boltzmann system. This expression makes the role of the six $\Lambda$CDM parameters particularly clear.
+where $\Theta_\ell(k,\eta_0)$ is the photon transfer function obtained by solving the Einstein--Boltzmann system. This expression makes the role of the six $\Lambda$ CDM parameters particularly clear.
 
 The primordial parameters $A_s$ and $n_s$ enter through the initial power spectrum $\Delta_\zeta^2(k)$. The remaining four parameters, $\Omega_b h^2$, $\Omega_c h^2$, $\theta_\ast$, and $\tau$, enter through the transfer functions $\Theta_\ell(k,\eta_0)$, since they determine the background expansion history, the photon--baryon sound speed, the epoch of matter--radiation equality, the angular diameter distance to last scattering, and the rescattering history after reionization.
 
