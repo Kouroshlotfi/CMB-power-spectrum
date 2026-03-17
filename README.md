@@ -3,7 +3,7 @@
 The CMB temperature angular power spectrum may be written as
 
 $$
-C_\ell^{TT} = 4\pi \int d\ln k \ \Delta_\zeta^2(k) \left| \frac{\Theta_\ell(k,\eta_0)}{\zeta(k)} \right|^2
+C_\ell^{TT} = 4\pi \int \ \Delta_\zeta^2(k) \left| \frac{\Theta_\ell(k,\eta_0)}{\zeta(k)} \right|^2 \ d\ln k
 $$
 
 
