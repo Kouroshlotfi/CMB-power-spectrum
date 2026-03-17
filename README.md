@@ -9,7 +9,7 @@ $$
 
 where $\Theta_\ell(k,\eta_0)$ is the photon transfer function obtained by solving the Einstein–Boltzmann system. This expression makes the role of the six $\Lambda$CDM parameters particularly clear.
 
-The primordial parameters $A_s$ and $n_s$ enter through the initial power spectrum $\Delta_\zeta^2(k)$. The remaining four parameters—$\Omega_b h^2$, $\Omega_c h^2$, $\theta_\ast$, and $\tau$—enter through the transfer functions $\Theta_\ell(k,\eta_0)$, since they determine:
+The primordial parameters $A_s$ and $n_s$ enter through the initial power spectrum $\Delta_\zeta^2(k)$. The remaining four parameters $\Omega_b h^2$, $\Omega_c h^2$, $\theta_\ast$, and $\tau$—enter through the transfer functions $\Theta_\ell(k,\eta_0)$, since they determine:
 - The background expansion history.
 - The photon–baryon sound speed.
 - The epoch of matter–radiation equality.
